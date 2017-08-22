@@ -5,7 +5,7 @@ https://medium.com/@sagarsharma4244/linear-regression-the-easier-way-6f941aa471e
 
 ---
 
-Linear Regression: The Easier Way
+
 Linear Regression is the great entry path in the amazing world of Machine Learning! and the most simplest algorithm to learn .
 I will focus more on the code then theory because code is more fun :) but just to fire up the resting linear regression neurons in your brain.
 Linear Regression : It is method to find pattern with a “Best Fit Line” ( therefore, “Linear” get it ?) in your data.
